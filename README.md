@@ -10,7 +10,7 @@ The data set consists of multiple folders, each representing a specific class, s
 Each folder contains images of objects that belong to that category. However, these items are not further subcategorised.
 For instance, the Food_Waste folder may contain images of items such as coffee grounds, tea bags and fruit peels without explicitly stating that they are coffee grounds or tea bags.
 
-Problem Statement
+# Problem Statement
 Now, let’s understand the problem statement, business objective and data to be used for this assignment.
 
 Improper waste disposal contributes to environmental degradation, increased landfill waste and inefficient recycling processes. Manual sorting is labour-intensive, error-prone and costly. An AI-powered waste classification system addresses these challenges by streamlining waste segregation, reducing operational costs and improving recycling rates.
